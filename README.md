@@ -49,9 +49,6 @@ details
 
 Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
-[![Twitch](https://img.shields.io/badge/Twitch-Retos_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dominicode_live)
-[![Discord](https://img.shields.io/badge/Discord-Canal_de_chat_para_retos-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/xYU2rjag)
-
 ### Follow me!
 
 [![Twitch Status](https://img.shields.io/twitch/status/dominicode_live?label=Dominicode&style=social)](https://twitch.com/dominicode_live)
