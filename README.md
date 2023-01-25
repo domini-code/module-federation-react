@@ -1,21 +1,10 @@
-# Project Title
+# "Step-by-Step Guide to Implementing Module Federation in React"
 
-One Paragraph of the project description
+"You will learn how to use the Federation of Modules in React to improve the organization and scalability of your application. You will learn how to create independent modules and how to share them between different React applications. Additionally, we will see how to configure and use Webpack to achieve this. Don't miss this tutorial to get the most out of your React application!"
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
-
-## Getting Started
-
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
-
-### Prerequisites
-
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+<a href="https://www.youtube.com/watch?v=4lxR_mv8Sgs" target="_blank">
+<img src="https://i3.ytimg.com/vi/4lxR_mv8Sgs/maxresdefault.jpg" 
+alt="Module Federation in React" width="240" height="180" border="10" />Watch how we did it</a>
 
 ### Installing
 
@@ -33,48 +22,14 @@ And repeat
 End with an example of getting some data out of the system or using it
 for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
-
 ## Built With
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+[![](https://i3.ytimg.com/vi/4lxR_mv8Sgs/maxresdefault.jpg)](https://www.youtube.com/watch?v=4lxR_mv8Sgs)
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+- **Billie Thompson** - _Provided README Template_ -
+  [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
@@ -85,9 +40,3 @@ who participated in this project.
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
-
-## Acknowledgments
-
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
