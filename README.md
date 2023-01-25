@@ -4,7 +4,7 @@
 
 <a href="https://www.youtube.com/watch?v=4lxR_mv8Sgs" target="_blank">
 <img src="https://i3.ytimg.com/vi/4lxR_mv8Sgs/maxresdefault.jpg" 
-alt="Module Federation in React" width="240" height="180" border="10" />Watch how we did it</a>
+alt="Module Federation in React" style="max-width: 100%;" border="10" />Watch how we did it</a>
 
 ### Installing
 
@@ -22,9 +22,23 @@ And repeat
 End with an example of getting some data out of the system or using it
 for a little demo
 
+<<<<<<< HEAD
+
 ## Built With
 
-[![](https://i3.ytimg.com/vi/4lxR_mv8Sgs/maxresdefault.jpg)](https://www.youtube.com/watch?v=4lxR_mv8Sgs)
+# [![](https://i3.ytimg.com/vi/4lxR_mv8Sgs/maxresdefault.jpg)](https://www.youtube.com/watch?v=4lxR_mv8Sgs)
+
+### Style test
+
+Checks if the best practices and the right coding style has been used.
+
+    Give an example
+
+## Built With
+
+[![](https://img.youtube.com/vi/4lxR_mv8Sgs/0.jpg)](https://www.youtube.com/watch?v=4lxR_mv8Sgs)
+
+> > > > > > > f13850f89143f9121dc368978a48a63a2a90d509
 
 ## Authors
 
