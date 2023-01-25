@@ -33,6 +33,7 @@ $ npm install
 ## Authors
 
 - **Bezael - Dominicode** -
+  <<<<<<< HEAD
   [Bezael](https://github.com/bezael)
 
 ## License
