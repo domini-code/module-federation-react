@@ -12,47 +12,41 @@ alt="Module Federation in React" style="max-width: 100%;" border="10" />Watch ho
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
+Navigate to each app (appOne, appTwo) folders and run the command
 
-Say what the step will be
+```js
+$ npm install
+```
 
-    Give the example
+## Run the application
 
-And repeat
+- Navigate to the appOne folder and run the below command
+  ```js
+    $ npm run start
+  ```
+- Navigate to the appTwo folder and run the below command
 
-    until finished
+  ```js
+    $ npm run start
+  ```
 
-End with an example of getting some data out of the system or using it
-for a little demo
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an exampl
+  **http://localhost:4001**
+  **http://localhost:4002**
 
 ## Authors
 
-- **Billie Thompson** - _Provided README Template_ -
-  [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+- **Bezael - Dominicode** -
+  [PurpleBooth](https://github.com/bezael)
 
 ## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
+details.
 
 ### Follow me!
 
 [![Twitch Status](https://img.shields.io/twitch/status/dominicode_live?label=Dominicode&style=social)](https://twitch.com/dominicode_live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/domini_code?style=social)](https://twitter.com/domini_code)
 ![GitHub Followers](https://img.shields.io/github/followers/bezael?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/bezael?style=social)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3QuZuJr2_EOUak8bWUd74A?style=social)](https://youtube.com/dominicode?sub_confirmation=1)
